@@ -1,0 +1,1 @@
+This git folder will store all material that the company wishes to pubicly release. 
